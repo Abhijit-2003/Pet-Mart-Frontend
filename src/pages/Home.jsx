@@ -54,13 +54,13 @@ function Home() {
     },
     {
       text: "Found my perfect companion thanks to Pet-Mart.",
-      author: "Mohammad Saif",
+      author: "jay Kumar",
       rating: 5,
       image: "/images/saif.jpg",
     },
     {
       text: "Excellent variety and great customer support.",
-      author: "Mohammad Anas",
+      author: "Hitesh sharma",
       rating: 5,
       image: "/images/anas.jpg",
     },
